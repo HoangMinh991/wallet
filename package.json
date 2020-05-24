@@ -1,0 +1,25 @@
+{
+    "name": "AppSteam",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "HoangMinh",
+    "contributors": [],
+    "devDependencies": {
+        "nodemon": "^1.17.5"
+    },
+    "dependencies": {
+        "steam-user": "^4.12.6",
+        "steam-totp": "^2.1.1",
+        "steam-tradeoffer-manager": "^2.8.0",
+        "steamcommunity": "^3.31.0",
+        "steamstore": "^2.2.0",
+        "express": "^4.16.3",
+        "dotenv": "^5.0.1"
+    }
+}
